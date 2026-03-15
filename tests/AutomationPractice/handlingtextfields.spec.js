@@ -128,7 +128,7 @@ test('drag and drop',async({page})=>
 
 
 
-test.only('handling sliders', async ({ page }) => {
+test('handling sliders', async ({ page }) => {
 
     await page.goto('https://testautomationpractice.blogspot.com/')
 
