@@ -178,7 +178,7 @@ test("Handling Alerts ",async({page})=>
     
 })
 
-test.only("Web Table",async({page})=>
+test("Web Table",async({page})=>
 {
     await page.goto("https://rahulshettyacademy.com/AutomationPractice/")
 
